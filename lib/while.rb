@@ -3,9 +3,10 @@ def using_while
 	
   #your code here
   until levitation_force < 10 
-  looping_string = 'Wingardium Leviosa'
-  puts looping_string
-  levitation_force -= 1
+    looping_string = 'Wingardium Leviosa'
+    puts looping_string
+    levitation_force -= 1
+end
 end
 
 
